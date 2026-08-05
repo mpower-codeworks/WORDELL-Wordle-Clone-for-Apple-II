@@ -1,5 +1,5 @@
 # Wordle-for-Apple-II
-Wordle clone for Apple II written in C and assembly. Requires 64kb and 80 column card. File system is ProDOS.
+Wordle II is a Wordle clone for Apple II written in C and assembly. It Requires 64kb and 80 column card. File system is ProDOS. The main target is Apple //e, it may work on a ][+, with an 80 column card... but that hasn't been tested.
 
 ## Screenshots
 
