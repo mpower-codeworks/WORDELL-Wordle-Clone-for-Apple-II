@@ -59,8 +59,8 @@ of each game. These can be reset to zero at any time.
 
 ## Building the Word Files
 
-`MAKEPACK.C` is a Windows-side build tool. It converts the
-normal text word lists into the files used by the Apple II
+`MAKEPACK.C` is a Windows tool. It converts the normal
+text word lists into the files used by the Apple II
 version.
 
 It reads:
