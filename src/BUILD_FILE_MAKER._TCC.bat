@@ -1,0 +1,2 @@
+cls
+tcc makepack.c
