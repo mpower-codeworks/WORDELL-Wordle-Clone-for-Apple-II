@@ -108,7 +108,7 @@ cl /nologo /O1 /Os /MD /GS- MAKEPACK.C /FeMAKEPACK.EXE /link /OPT:REF /OPT:ICF /
 
 The MSVC build is about 12kb with the current source.
 
-Either compiler produces the same data files. TCC is convenient
+TCC and CL produce the same data files. TCC is convenient
 and tiny. MSVC is useful when TCC is not installed or when
 building with the standard Microsoft toolchain.
 
