@@ -1,4 +1,7 @@
+<img src="images/icon.jpg align="left" width="100" alt="Wordell Icon">
+
 ## Wordell: A Wordle Clone for Apple II
+
 Wordell is a Wordle clone for Apple II written in
 [CC65](https://cc65.github.io/doc/apple2.html) and Assembly.
 It features 2,315 possible unique games. It requires 64kb and an
