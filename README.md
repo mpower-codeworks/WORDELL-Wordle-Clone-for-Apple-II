@@ -1,6 +1,6 @@
-<img src="images/icon.jpg" align="left" width="100" alt="Wordell Icon">
-
 ## Wordell: A Wordle Clone for Apple II
+
+<img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
 
 Wordell is a Wordle clone for Apple II written in
 [CC65](https://cc65.github.io/doc/apple2.html) and Assembly.
