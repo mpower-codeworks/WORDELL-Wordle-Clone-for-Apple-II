@@ -8,6 +8,14 @@ card, but that hasn't been tested. All testing was done on real
 hardware running
 [Apple II Desktop](https://www.a2desktop.com/).
 
+### Shoutout to other Apple II Wordle clones on Github (they're great):
+[Untitled Word Game Pro](https://github.com/a2-4am/untitled-word-game-pro)
+by 4am
+
+[Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502) by jeffjet24
+
+## And now on to Wordell...
+
 ## Screenshots
 
 <table>
@@ -95,30 +103,3 @@ starting-letter group in `ALL5.BIN`.
 `MAKEPACK.C` packs the list as supplied; it does
 not sort it.
 
-### Build MAKEPACK with TCC
-
-```bat
-tcc makepack.c
-```
-
-This produces a very small `MAKEPACK.EXE`,
-about 6kb with the current source.
-
-### Build MAKEPACK with MSVC
-
-From a Visual Studio Developer Command Prompt:
-
-```bat
-cl /nologo /O1 /Os /MD /GS- MAKEPACK.C /FeMAKEPACK.EXE /link /OPT:REF /OPT:ICF /INCREMENTAL:NO
-```
-
-The MSVC build is about 12kb with the current source.
-
-TCC and CL produce the same data files. TCC is convenient
-and tiny. MSVC is useful when TCC is not installed or when
-building with the standard Microsoft toolchain.
-
-Run `MAKEPACK.EXE` in the directory containing `ALL.TXT` and
-`SOLUTION.TXT`. Copy the generated `ALL5.BIN` and `SOL5.BIN`
-to the ProDOS disk with `WORDLE.SYSTEM`. `WORDDATA.H` stays
-with the source and is compiled into Wordell.
