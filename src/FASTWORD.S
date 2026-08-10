@@ -24,8 +24,8 @@ fw_left:        .res 2
 
 
 ;; asm_find_word(void)
-;; ueturns 1 if queryWord is found in groupBuf
-;; ueturns 0 if it is not found
+;; returns 1 if queryWord is found in groupBuf
+;; returns 0 if it is not found
 
 _asm_find_word:
         lda     _groupWords
