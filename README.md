@@ -1,10 +1,10 @@
 ## Wordell: A Wordle Clone for Apple II
 Wordell is a Wordle clone for Apple II written in C and assembly.
 It features 2,315 possible unique games. It requires 64kb and an
-80 column card. File system is ProDOS. The main target is Apple
-//e. It may work on a ][+ with an 80 column card, but that
-hasn't been tested. All testing was done on real hardware running
-[Apple II Desktop](https://github.com/a2stuff/a2d).
+80 column card. File system is [ProDOS 2.4.3](https://prodos8.com/).
+The main target is Apple //e. It may work on a ][+ with an 80 column
+card, but that hasn't been tested. All testing was done on real
+hardware running [Apple II Desktop](https://github.com/a2stuff/a2d).
 
 ## Screenshots
 
