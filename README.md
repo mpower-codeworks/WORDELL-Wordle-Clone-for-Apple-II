@@ -6,7 +6,7 @@ It features 2,315 possible unique games. It requires 64kb and an
 The main target is Apple //e. It may work on a ][+ with an 80 column
 card, but that hasn't been tested. All testing was done on real
 hardware running
-[Apple II Desktop](https://github.com/a2stuff/a2d](https://www.a2desktop.com/).
+[Apple II Desktop](https://www.a2desktop.com/).
 
 ## Screenshots
 
