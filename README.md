@@ -60,6 +60,9 @@ of each game. These can be reset to zero at any time.
 
 ## Building the Word Files
 
+You don't need to so this unless you with to make new
+word/solution lists.
+
 `MAKEPACK.C` is a Windows tool. It converts the normal
 text word lists into the files used by the Apple II
 version.
