@@ -4,6 +4,27 @@ It requires 64kb and an 80 column card. File system is ProDOS.
 The main target is Apple //e. It may work on a ][+ with an 80
 column card... but that hasn't been tested.
 
+## Screenshots
+
+<table>
+    <tr>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/wordle-a2.jpg" width="100%" alt="wordle-a2"><br>
+        </td>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/wordle-game.jpg" width="100%" alt="wordle-game"><br>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/wordle-game2.jpg" width="100%" alt="wordle-game22"><br>
+        </td>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/wordle-game3.jpg" width="100%" alt="wordle-game3"><br>
+        </td>
+    </tr>
+</table>
+
 ## How Wordell Works
 
 Wordell uses two word lists:
@@ -95,25 +116,3 @@ Run `MAKEPACK.EXE` in the directory containing `ALL.TXT` and
 `SOLUTION.TXT`. Copy the generated `ALL5.BIN` and `SOL5.BIN`
 to the ProDOS disk with `WORDLE.SYSTEM`. `WORDDATA.H` stays
 with the source and is compiled into Wordell.
-
-## Screenshots
-
-<table>
-    <tr>
-        <td align="left" width="50%" valign="middle">
-            <img src="images/wordle-a2.jpg" width="100%" alt="wordle-a2"><br>
-        </td>
-        <td align="left" width="50%" valign="middle">
-            <img src="images/wordle-game.jpg" width="100%" alt="wordle-game"><br>
-        </td>
-    </tr>
-    <tr>
-        <td align="left" width="50%" valign="middle">
-            <img src="images/wordle-game2.jpg" width="100%" alt="wordle-game22"><br>
-        </td>
-        <td align="left" width="50%" valign="middle">
-            <img src="images/wordle-game3.jpg" width="100%" alt="wordle-game3"><br>
-        </td>
-    </tr>
-</table>
-
