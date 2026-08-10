@@ -107,7 +107,7 @@ not sort it.
 
 I know, I know... why not 40 columns? I just like 80, that's all.
 I guess mode-switching is one idea, but it could get tricky unless
-Wordell always starts in 40 column mode., and I prefer the "80" look.
+Wordell always starts in 40 column mode, and I prefer the "80" look.
 
 The repositioning would be easy. If Wordell could detect the screen
 mode and then auto-adjust, that would be fantastic. Maybe that'll be
