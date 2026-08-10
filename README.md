@@ -1,5 +1,8 @@
 ## Wordell: A Wordle Clone for Apple II
-Wordell is a Wordle clone for Apple II written in C and assembly. It requires 64kb and an 80 column card. File system is ProDOS. The main target is Apple //e. It may work on a ][+ with an 80 column card... but that hasn't been tested.
+Wordell is a Wordle clone for Apple II written in C and assembly.
+It requires 64kb and an 80 column card. File system is ProDOS.
+The main target is Apple //e. It may work on a ][+ with an 80
+column card... but that hasn't been tested.
 
 ## How Wordell Works
 
@@ -8,11 +11,16 @@ Wordell uses two word lists:
 - `ALL.TXT` - 12,947 words accepted as guesses.
 - `SOLUTION.TXT` - 2,315 words that can be selected as answers.
 
-The Apple II does not read these text files directly. They are converted on a modern PC into fixed 5-byte records.
+The Apple II does not read these text files directly. They
+are converted on a modern PC into fixed 5-byte records.
 
-At startup Wordell opens `ALL5.BIN` and `SOL5.BIN`. Pressing **S** starts a timer-based random seed. A solution number is selected and exactly five bytes are read from `SOL5.BIN`.
+At startup Wordell opens `ALL5.BIN` and `SOL5.BIN`. Pressing **S**
+starts a timer-based random seed. A solution number is selected and
+exactly five bytes are read from `SOL5.BIN`.
 
-Guess validation is kept small and fast. Only the matching first-letter group from `ALL5.BIN` is loaded into RAM. `FASTWORD.S` then searches that RAM buffer in 6502 assembly.
+Guess validation is kept small and fast. Only the matching first-letter
+group from `ALL5.BIN` is loaded into RAM. `FASTWORD.S` then searches
+that RAM buffer in 6502 assembly.
 
 Hints use:
 
@@ -20,15 +28,19 @@ Hints use:
 - `o` - correct letter, wrong position
 - `_` - letter not in the word
 
-Used letters are removed from the visible alphabet as the game progresses.
+Used letters are removed from the visible
+alphabet as the game progresses.
 
 ### Player Stats
 
-Player stats are recorded in `WORDLE.INI` at the end of each game. These can be reset to zero at any time.
+Player stats are recorded in `WORDLE.INI` at the end
+of each game. These can be reset to zero at any time.
 
 ## Building the Word Files
 
-`MAKEPACK.C` is a Windows-side build tool. It converts the normal text word lists into the files used by the Apple II version.
+`MAKEPACK.C` is a Windows-side build tool. It converts the
+normal text word lists into the files used by the Apple II
+version.
 
 It reads:
 
@@ -45,13 +57,16 @@ SOL5.BIN
 WORDDATA.H
 ```
 
-Each packed word is exactly five bytes. No CR, LF, or zero terminator is stored.
+Each packed word is exactly five bytes. No
+CR, LF, or zero terminator is stored.
 
-This matters on the Apple II. The old method had to scan text, find line endings, seek around the file, and build a cache. The packed files allow fixed-position reads. Wordell can load one starting-letter group and search it directly in RAM.
+`WORDDATA.H` is generated at the same time. It contains
+the solution count plus the offset and size of each
+starting-letter group in `ALL5.BIN`.
 
-`WORDDATA.H` is generated at the same time. It contains the solution count plus the offset and size of each starting-letter group in `ALL5.BIN`.
-
-`ALL.TXT` must remain grouped by starting letter. `MAKEPACK.C` packs the list as supplied; it does not sort it.
+`ALL.TXT` must remain grouped by starting letter.
+`MAKEPACK.C` packs the list as supplied; it does
+not sort it.
 
 ### Build MAKEPACK with TCC
 
@@ -59,7 +74,8 @@ This matters on the Apple II. The old method had to scan text, find line endings
 tcc makepack.c
 ```
 
-This produces a very small `MAKEPACK.EXE`, about 6kb with the current source.
+This produces a very small `MAKEPACK.EXE`,
+about 6kb with the current source.
 
 ### Build MAKEPACK with MSVC
 
@@ -71,9 +87,14 @@ cl /nologo /O1 /Os /MD /GS- MAKEPACK.C /FeMAKEPACK.EXE /link /OPT:REF /OPT:ICF /
 
 The MSVC build is about 12kb with the current source.
 
-Either compiler produces the same data files. TCC is convenient and tiny. MSVC is useful when TCC is not installed or when building with the standard Microsoft toolchain.
+Either compiler produces the same data files. TCC is convenient
+and tiny. MSVC is useful when TCC is not installed or when
+building with the standard Microsoft toolchain.
 
-Run `MAKEPACK.EXE` in the directory containing `ALL.TXT` and `SOLUTION.TXT`. Copy the generated `ALL5.BIN` and `SOL5.BIN` to the ProDOS disk with `WORDLE.SYSTEM`. `WORDDATA.H` stays with the source and is compiled into Wordell.
+Run `MAKEPACK.EXE` in the directory containing `ALL.TXT` and
+`SOLUTION.TXT`. Copy the generated `ALL5.BIN` and `SOL5.BIN`
+to the ProDOS disk with `WORDLE.SYSTEM`. `WORDDATA.H` stays
+with the source and is compiled into Wordell.
 
 ## Screenshots
 
