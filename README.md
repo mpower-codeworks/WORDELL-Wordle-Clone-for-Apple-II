@@ -21,7 +21,7 @@ by 4am
 
 Currently these are:
 
-[Wordell for MS-DOS 3.3](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-1.0)
+[Wordell for MS-DOS 3.3](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-MS-DOS-3.3)
 
 [Wordell for Windows 1.0](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-1.0)
 
