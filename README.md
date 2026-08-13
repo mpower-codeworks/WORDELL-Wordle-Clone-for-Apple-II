@@ -17,7 +17,15 @@ by 4am
 
 [Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502) by jeffjet24
 
-## And now on to Wordell...
+### Wordell for Apple II is also the base code for all other version of Wordell
+
+Currently these are:
+
+[Wordell for MS-DOS 3.3](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-1.0)
+
+[Wordell for Windows 1.0](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-1.0)
+
+## And now on to Wordell for Apple II...
 
 ## Screenshots
 
