@@ -27,7 +27,6 @@ Currently these are:
 
 [Wordell for Windows 2.0](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-2.0)
 
-## And now on to Wordell for Apple II...
 <img src="images/andnow.png" align="left" width="55%" alt="And now on to Wordell for Apple II..."><br><br>
 
 ## Screenshots
