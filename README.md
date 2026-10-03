@@ -1,4 +1,4 @@
-<img src="images/wordellclone.png" align="left" width="25%" alt="Wordell Banner">
+<img src="images/wordellclone.png" align="left" width="45%" alt="Wordell Banner"><br><br>
 
 <img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
 
