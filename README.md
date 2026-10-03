@@ -125,3 +125,5 @@ Wordell always starts in 40 column mode, and I prefer the "80" look.
 The repositioning would be easy. If Wordell could detect the screen
 mode and then auto-adjust, that would be fantastic. Maybe that'll be
 version 2.0.
+
+.ɱքøωɇɍ-ƈøđɇωøɍҟֆ
