@@ -15,9 +15,9 @@ hardware running
 [Untitled Word Game Pro](https://github.com/a2-4am/untitled-word-game-pro)
 by 4am
 
-~~[Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502)~~ by jeffjet24 (currently dead link)
+~~[Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502)~~ by jeffjet24 (currently dead link)<br>
 
-<img src="images/basecode.png" align="left" width="45%" alt="Wordell is Base Code for all other version"><br><br>
+<img src="images/basecode.png" align="left" width="75%" alt="Wordell is the Base Code for all other versions"><br>
 
 Currently these are:
 
