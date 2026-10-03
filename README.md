@@ -1,4 +1,4 @@
-<img src="images/wordellclone.png" align="left" width="45%" alt="Wordell Banner"><br><br>
+<img src="images/wordellclone.png" align="left" width="55%" alt="Wordell Banner"><br><br>
 
 <img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
 
@@ -28,6 +28,7 @@ Currently these are:
 [Wordell for Windows 2.0](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-2.0)
 
 ## And now on to Wordell for Apple II...
+<img src="images/andnow.png" align="left" width="55%" alt="And now on to Wordell for Apple II..."><br><br>
 
 ## Screenshots
 
