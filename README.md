@@ -117,6 +117,7 @@ starting-letter group in `ALL5.BIN`.
 not sort it.
 
 ## Future Considerations for Wordell
+<img src="images/future.png" align="left" width="35%" alt="Future Considerations"><br>
 
 I know, I know... why not 40 columns? I just like 80, that's all.
 I guess mode-switching is one idea, but it could get tricky unless
