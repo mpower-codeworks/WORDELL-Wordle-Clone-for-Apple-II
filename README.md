@@ -1,4 +1,4 @@
-## Wordell: A Wordle Clone for Apple II
+<img src="images/wrodellclone.png" align="left" width="25%" alt="Wordell Banner">
 
 <img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
 
