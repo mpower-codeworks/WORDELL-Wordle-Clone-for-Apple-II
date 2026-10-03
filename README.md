@@ -17,7 +17,7 @@ by 4am
 
 ~~[Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502)~~ by jeffjet24 (currently dead link)
 
-### Wordell for Apple II is also the base code for all other versions of Wordell
+<img src="images/basecode.png" align="left" width="45%" alt="Wordell is Base Code for all other version"><br><br>
 
 Currently these are:
 
