@@ -82,7 +82,7 @@ alphabet as the game progresses.
 Player stats are recorded in `WORDLE.INI` at the end
 of each game. These can be reset to zero at any time.
 
-## Building the Word Files
+<img src="images/buildingfiles.png" align="left" width="35%" alt="Building the Word Files"><br><br>
 
 ### You don't need to do this unless you wish to make new word/solution lists.
 
