@@ -15,7 +15,7 @@ hardware running
 [Untitled Word Game Pro](https://github.com/a2-4am/untitled-word-game-pro)
 by 4am
 
-~~[Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502)~~ by jeffjet24 (currently dead link)<br><br>
+[Apple IIe Wordle - wordle6502](https://github.com/jeffjet24/wordle-6502) by jeffjet24 (currently dead link)<br><br>
 
 ## Wordell for Apple II is also the base code for all other versions of Wordell
 
