@@ -50,7 +50,7 @@ Currently these are:
     </tr>
 </table>
 
-## How Wordell Works
+<img src="images/howworks.png" align="left" width="45%" alt="How Wordell Work"><br><br>
 
 Wordell uses two word lists:
 
