@@ -4,6 +4,7 @@ you know they are images. Making them crisp was a bit of an
 adventure. I have a tool that lets you write your text and
 quickly output a transparent .png file. Best results were
 achieved using fonts at about 120px and anti-alias off.
+Shadows on also seems to look best.
 -->
 <img src="images/wordellclone.png" align="left" width="55%" alt="Wordell Banner"><br><br>
 
