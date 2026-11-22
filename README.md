@@ -6,7 +6,7 @@ quickly output a transparent .png file. Best results were
 achieved using fonts at about 120px and anti-alias off.
 Shadows on also seems to look best.
 -->
-<img src="images/wordell.png" width="25%" alt="Wordell Banner"><img src="images/clone.png" width="25%" alt="Wordell Banner"><br><br>
+<img src="images/wordell.png" width="35%" alt="Wordell Banner"><img src="images/clone.png" width="35%" alt="Wordell Banner">
 
 <img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
 
