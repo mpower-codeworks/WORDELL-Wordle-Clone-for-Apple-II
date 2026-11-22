@@ -33,7 +33,7 @@ Currently these are:
 
 [Wordell for Windows 2.0](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-2.0)
 
-<img src="images/andnow.png" align="left" width="55%" alt="And now on to Wordell for Apple II..."><br><br>
+<img src="images/andnow.png" width="150" alt="andnow"><img src="images/andnow.png" width="150" alt="andnow">
 
 ## Screenshots
 
