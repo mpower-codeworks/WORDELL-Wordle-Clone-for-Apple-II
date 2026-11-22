@@ -1,11 +1,3 @@
-<!--
-If you are wondering about the colorful fonts, well I'm sure
-you know they are images. Making them crisp was a bit of an
-adventure. I have a tool that lets you write your text and
-quickly output a transparent .png file. Best results were
-achieved using fonts at about 120px and anti-alias off.
-Shadows on also seems to look best.
--->
 <img src="images/wordell.png" width="300" alt="Wordell"><img src="images/clone.png" width="300" alt="Clone">
 
 <img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
