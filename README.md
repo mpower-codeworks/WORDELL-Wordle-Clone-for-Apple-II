@@ -56,7 +56,7 @@ Currently these are:
     </tr>
 </table>
 
-<img src="images/howworks.png" align="left" width="35%" alt="How Wordell Works"><br><br>
+<img src="images/how.png" width="200" alt="How Wordell Works"><img src="images/how2.png" width="95" alt="How Wordell Works">
 
 Wordell uses two word lists:
 
