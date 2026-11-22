@@ -83,7 +83,7 @@ Hints use:
 Used letters are removed from the visible
 alphabet as the game progresses.
 
-<img src="images/stats.png" width="170" alt="Player Stats"><br><br>
+<img src="images/stats2.png" width="170" alt="Player Stats"><br><br>
 
 Player stats are recorded in `WORDLE.INI` at the end
 of each game. These can be reset to zero at any time.
