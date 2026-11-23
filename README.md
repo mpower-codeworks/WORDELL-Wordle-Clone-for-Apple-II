@@ -11,11 +11,11 @@ card, but that hasn't been tested. All testing was done on real
 hardware running
 [Apple II Desktop](https://www.a2desktop.com/).
 
-### Shoutout to other Apple II Wordle clones on Github:
+### 𝐒𝐡𝐨𝐮𝐭𝐨𝐮𝐭 𝐭𝐨 𝐨𝐭𝐡𝐞𝐫 𝐀𝐩𝐩𝐥𝐞 𝐈𝐈 𝐖𝐨𝐫𝐝𝐥𝐞 𝐜𝐥𝐨𝐧𝐞𝐬 𝐨𝐧 𝐆𝐢𝐭𝐡𝐮𝐛:
 [Untitled Word Game Pro](https://github.com/a2-4am/untitled-word-game-pro)
 by 4am<br><br>
 
-## Wordell for Apple II is also the base code for all other versions of Wordell
+### 𝐖𝐨𝐫𝐝𝐞𝐥𝐥 𝐟𝐨𝐫 𝐀𝐩𝐩𝐥𝐞 𝐈𝐈 𝐢𝐬 𝐚𝐥𝐬𝐨 𝐭𝐡𝐞 𝐛𝐚𝐬𝐞 𝐜𝐨𝐝𝐞 𝐟𝐨𝐫 𝐚𝐥𝐥 𝐨𝐭𝐡𝐞𝐫 𝐯𝐞𝐫𝐬𝐢𝐨𝐧𝐬 𝐨𝐟 𝐖𝐨𝐫𝐝𝐞𝐥𝐥
 
 Currently these are:
 
