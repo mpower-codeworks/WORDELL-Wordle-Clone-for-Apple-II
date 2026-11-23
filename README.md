@@ -1,4 +1,4 @@
-<img src="images/wordell1.png" width="300" alt="Wwordell1"><img src="images/wordell2.png" width="300" alt="wordell2>
+<img src="images/wordell1.png" width="300" alt="Wwordell1"><img src="images/wordell2.png" width="300" alt="wordell2">
 
 <img src="images/icon.jpg" align="left" width="250" alt="icon">
 
