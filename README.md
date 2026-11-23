@@ -27,7 +27,7 @@ Currently these are:
 
 <img src="images/andnow.png" width="180" alt="andnow"><img src="images/andnow2.png" width="225" alt="andnow">
 
-## Screenshots
+## 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ Currently these are:
 
 <img src="images/how.png" width="200" alt="How Wordell Works"><img src="images/how2.png" width="95" alt="How Wordell Works">
 
-Wordell uses two word lists:
+𝐖𝐨𝐫𝐝𝐞𝐥𝐥 𝐮𝐬𝐞𝐬 𝐭𝐰𝐨 𝐰𝐨𝐫𝐝 𝐥𝐢𝐬𝐭𝐬:
 
 - `ALL.TXT` - 12,947 words accepted as guesses.
 - `SOLUTION.TXT` - 2,315 words that can be selected as answers.
@@ -66,7 +66,7 @@ Guess validation is kept small and fast. Only the matching first-letter
 group from `ALL5.BIN` is loaded into RAM. `FASTWORD.S` then searches
 that RAM buffer in 6502 assembly.
 
-Hints use:
+𝐇𝐢𝐧𝐭𝐬 𝐮𝐬𝐞:
 
 - `#` - correct letter and position
 - `o` - correct letter, wrong position
@@ -82,7 +82,7 @@ of each game. These can be reset to zero at any time.
 
 <img src="images/building1.png" width="175" alt="building1"><img src="images/building2.png" width="150" alt="building2">
 
-### You don't need to do this unless you wish to make new word/solution lists.
+### 𝐘𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐝𝐨 𝐭𝐡𝐢𝐬 𝐮𝐧𝐥𝐞𝐬𝐬 𝐲𝐨𝐮 𝐰𝐢𝐬𝐡 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐧𝐞𝐰 𝐰𝐨𝐫𝐝/𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐥𝐢𝐬𝐭𝐬.
 
 `MAKEPACK.C` is a Windows tool. It converts the normal
 text word lists into the files used by the Apple II
@@ -124,4 +124,4 @@ The repositioning would be easy. If Wordell could detect the screen
 mode and then auto-adjust, that would be fantastic. Maybe that'll be
 version 2.0.
 
-.ɱքøωɇɍ-ƈøđɇωøɍҟֆ
+### .ɱքøωɇɍ-ƈøđɇωøɍҟֆ
