@@ -114,7 +114,7 @@ starting-letter group in `ALL5.BIN`.
 `MAKEPACK.C` packs the list as supplied; it does
 not sort it.
 
-<img src="images/future.png" align="left" width="35%" alt="Future Considerations"><br><br>
+<img src="images/future1.png" width="100" alt="future1"><img src="images/future2.png" width="200" alt="future2">
 
 I know, I know... why not 40 columns? I just like 80, that's all.
 I guess mode-switching is one idea, but it could get tricky unless
