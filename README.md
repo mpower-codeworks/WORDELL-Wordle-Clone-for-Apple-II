@@ -1,4 +1,4 @@
-<img src="images/wordell.png" width="300" alt="Wordell"><img src="images/clone.png" width="300" alt="Clone">
+<img src="images/wordell1.png" width="300" alt="Wordell"><img src="images/wordell2.png" width="300" alt="Clone">
 
 <img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
 
