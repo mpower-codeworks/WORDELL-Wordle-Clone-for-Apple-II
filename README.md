@@ -80,7 +80,7 @@ alphabet as the game progresses.
 Player stats are recorded in `WORDLE.INI` at the end
 of each game. These can be reset to zero at any time.
 
-<img src="images/building1.png" width="150" alt="building1"><img src="images/building2.png" width="150" alt="building2">
+<img src="images/building1.png" width="175" alt="building1"><img src="images/building2.png" width="150" alt="building2">
 
 ### You don't need to do this unless you wish to make new word/solution lists.
 
