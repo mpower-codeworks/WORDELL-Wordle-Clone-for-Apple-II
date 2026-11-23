@@ -1,6 +1,6 @@
-<img src="images/wordell1.png" width="300" alt="Wordell"><img src="images/wordell2.png" width="300" alt="Clone">
+<img src="images/wordell1.png" width="300" alt="Wwordell1"><img src="images/wordell2.png" width="300" alt="wordell2>
 
-<img src="images/icon.jpg" align="left" width="250" alt="Wordell Icon">
+<img src="images/icon.jpg" align="left" width="250" alt="icon">
 
 Wordell is a Wordle clone for Apple II written in
 [CC65](https://cc65.github.io/doc/apple2.html) and Assembly.
@@ -48,7 +48,7 @@ Currently these are:
     </tr>
 </table>
 
-<img src="images/how.png" width="200" alt="How Wordell Works"><img src="images/how2.png" width="95" alt="How Wordell Works">
+<img src="images/how.png" width="200" alt="how"><img src="images/how2.png" width="95" alt="how2">
 
 𝐖𝐨𝐫𝐝𝐞𝐥𝐥 𝐮𝐬𝐞𝐬 𝐭𝐰𝐨 𝐰𝐨𝐫𝐝 𝐥𝐢𝐬𝐭𝐬:
 
