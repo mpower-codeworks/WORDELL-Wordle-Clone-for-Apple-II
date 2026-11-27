@@ -133,7 +133,7 @@ Player stats are recorded in `WORDLE.INI` at the end
 of each game. These can be reset to zero at any time.
 -->
 𝙿𝚕𝚊𝚢𝚎𝚛 𝚜𝚝𝚊𝚝𝚜 𝚊𝚛𝚎 𝚛𝚎𝚌𝚘𝚛𝚍𝚎𝚍 𝚒𝚗 `𝚆𝙾𝚁𝙳𝙻𝙴.𝙸𝙽𝙸` 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚗𝚍
-𝚘𝚏 𝚎𝚊𝚌𝚑 𝚐𝚊𝚖𝚎. 𝚃𝚑𝚎𝚜𝚎 𝚌𝚊𝚗 𝚋𝚎 𝚛𝚎𝚜𝚎𝚝 𝚝𝚘 𝚣𝚎𝚛𝚘 𝚊𝚝 𝚊𝚗𝚢 𝚝𝚒𝚖𝚎.
+𝚘𝚏 𝚎𝚊𝚌𝚑 𝚐𝚊𝚖𝚎. 𝚃𝚑𝚎𝚜𝚎 𝚌𝚊𝚗 𝚋𝚎 𝚛𝚎𝚜𝚎𝚝 𝚝𝚘 𝚣𝚎𝚛𝚘 𝚊𝚝 𝚊𝚗𝚢 𝚝𝚒𝚖𝚎.<br><br>
 
 <img src="images/building1.png" width="175" alt="building1"><img src="images/building2.png" width="150" alt="building2">
 
