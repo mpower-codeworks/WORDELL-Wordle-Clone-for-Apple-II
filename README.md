@@ -1,5 +1,6 @@
 <img src="images/wordell1.png" width="300" alt="Wwordell1"><img src="images/wordell2.png" width="300" alt="wordell2">
 
+---
 <img src="images/icon.jpg" align="left" width="250" alt="icon">
 
 <!--
@@ -21,6 +22,8 @@ hardware running
 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎 𝚛𝚞𝚗𝚗𝚒𝚗𝚐
 [Aᴘᴘʟᴇ II Dᴇꜱᴋᴛᴏᴘ](https://www.a2desktop.com/).
 
+---
+
 <!-- 
 Shoutout to other Wordle clones for Apple II:
 Untitled Word Game Pro
@@ -30,6 +33,7 @@ by 4am
 [Uɴᴛɪᴛʟᴇᴅ Wᴏʀᴅ Gᴀᴍᴇ Pʀᴏ](https://github.com/a2-4am/untitled-word-game-pro)
 𝚋𝚢 𝟺𝚊𝚖<br><br>
 
+---
 <!--
 ### Wordell for Apple II is also the base code for all other versions of Wordell
 -->
